@@ -55,3 +55,5 @@ Classification Report:
    macro avg       0.53      0.50      0.48      4500
 weighted avg       0.53      0.50      0.48      4500
 
+KAGGLE LİNK:
+https://www.kaggle.com/code/serpiliek/globalaihubderinogrenme/edit
